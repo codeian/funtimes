@@ -9,7 +9,6 @@
 # Took longer to figure that distinction out than I'd like to admit...argh, words...
 
 # Answer:
-
 sum = 2
 
 temp = 1
