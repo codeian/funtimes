@@ -6,7 +6,7 @@
 # By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 #
 # Even valued = sequence element is divisible by two, not the 2nd, 4th, 6th, 8th, etc elements
-# (Took longer to figure that distinction out than I'd like to admit...argh, words...)
+# Took longer to figure that distinction out than I'd like to admit...argh, words...
 
 # Answer:
 
